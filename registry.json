@@ -1,11 +1,11 @@
 [
   {
-    "id": "bitcoin",
-    "name": "Bitcoin",
-    "coinId": 0,
-    "symbol": "BTC",
+    "id": "vbitcoin",
+    "name": "vBitcoin",
+    "coinId": 3,
+    "symbol": "VBTC",
     "decimals": 8,
-    "blockchain": "Bitcoin",
+    "blockchain": "VBitcoin",
     "derivation": [
       {
         "name": "segwit",
@@ -59,7 +59,7 @@
     "coinId": 2,
     "symbol": "LTC",
     "decimals": 8,
-    "blockchain": "Bitcoin",
+    "blockchain": "VBitcoin",
     "derivation": [
       {
         "path": "m/84'/2'/0'/0/0",
@@ -160,9 +160,9 @@
     "id": "viacoin",
     "name": "Viacoin",
     "coinId": 14,
-    "symbol": "VIA",
+    "symbol": "VUA",
     "decimals": 8,
-    "blockchain": "Bitcoin",
+    "blockchain": "VBitcoin",
     "derivation": [
       {
         "path": "m/84'/14'/0'/0/0",
